@@ -1,0 +1,51 @@
+# LVS — Lite Visual Style (Chocapic13' Shaders edit)
+
+Original shader: Chocapic13' Shaders V9 by Choca_13
+Original project: https://www.curseforge.com/minecraft/shaders/chocapic13-shaders
+
+## License, as stated by Chocapic13
+
+### Sharing a modified version of my shaders
+
+* You are not allowed to claim any of the code included in "Chocapic13' shaders" as your own.
+* You can share a modified version of my shaders if you respect the following title scheme: " -Name of the shaderpack- (Chocapic13' Shaders edit) ".
+* You cannot use any monetizing links (for example, adfoc.us or adf.ly).
+* The rules of modification and sharing have to be the same as the ones here. Copy and paste all these rules in your post and change them depending on whether you allow modification or not. You cannot make your own rules; you can only choose if you allow redistribution.
+* Chocapic13 must be clearly credited.
+* You cannot use any version older than "Chocapic13' Shaders V4" as a base. Older versions may be modified for personal use only.
+
+### Common sense
+
+* If you want a feature from another shaderpack or want to use a piece of code found on the web, make sure the code is open source. If in doubt, ask the creator.
+* Share your modification only if you think it adds something useful to the shaderpack, not just two or three changed constants.
+
+### Special level of permission
+
+With written permission from Chocapic13, requested if you believe your shaderpack is a substantial modification of the original:
+
+* Monetizing links are allowed.
+* You may create your own sharing rules.
+* The shaderpack name may be chosen freely.
+* The shaderpack may be listed on Chocapic13's official shader thread.
+* Chocapic13 must still be clearly credited.
+
+### Using this shaderpack in a video or picture
+
+* You may use this shaderpack for screenshots and videos if you mention the shaderpack name in the description or message.
+* You may use this shaderpack in monetized videos as long as you follow the attribution rule above.
+
+### Minecraft websites
+
+* The download link must redirect to the download link provided in the shaderpack's official thread.
+* A link to the shaderpack's official thread must be included.
+* You must not add monetizing links to the shaderpack download.
+
+### Contact
+
+If you are unsure what is allowed, contact Chocapic13 through the Minecraft Forum.
+
+Not respecting these rules may result in a request to remove the thread or download, with or without warning. Intellectual property theft is punishable by law.
+
+## LVS redistribution choice
+
+Redistribution of LVS outside its original release page: **Not permitted**.
