@@ -1,13 +1,31 @@
-LVS - Lite Visual Style
+# LVS — Lite Visual Style
+
 Version 1.0.0
 
-Author / project maintainer:
-Jack_Pulya (CurseForge) (Modrinth)
+## Author / Project Maintainer
 
-Base shader: Chocapic13' Shaders V9 by Choca_13.
-LVS is a modified/edited version of Chocapic13' Shaders.
+Jack_Pulya - CurseForge / Modrinth
 
-Required distribution attribution:
-LVS - Lite Visual Style (Chocapic13' Shaders edit)
+## Original Shader
 
-LVS additions are original modifications made for this project.
+Chocapic13' Shaders V9 by Choca_13
+
+Original project:
+https://www.curseforge.com/minecraft/shaders/chocapic13-shaders
+
+LVS is a modified version of Chocapic13' Shaders.
+
+## Required Distribution Attribution
+
+LVS — Lite Visual Style (Chocapic13' Shaders edit)
+
+## Modifications
+
+LVS includes original modifications and visual adjustments made for this project.
+
+## License
+
+The original Chocapic13' Shaders code and assets remain subject to the original license and its terms. Please refer to the original project for the applicable conditions.
+
+LVS modifications do not replace or override the original license.
+
