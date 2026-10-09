@@ -1,0 +1,22 @@
+profile.Beauty=Beauty
+profile.Soft=Soft Light
+profile.Cinematic=Cinematic
+profile.Performance=Performance
+screen.LVS_LIGHTING=LVS Lighting
+screen.LVS_SUN_SHAFTS=Sun Shafts
+option.LVS_SOFT_LIGHTING=Light softness
+option.LVS_SKY_BOUNCE_STRENGTH=Sky bounce
+option.LVS_GROUND_BOUNCE_STRENGTH=Ground bounce
+option.LVS_SHADOW_LIFT=Shadow lift
+option.LVS_SUN_HIGHLIGHT=Sun highlights
+option.LVS_TORCH_WARMTH=Torch warmth
+option.LVS_SUN_SHAFTS=Sun shafts
+option.LVS_SUN_SHAFT_STRENGTH=Shaft strength
+option.LVS_SUN_SHAFT_SAMPLES=Shaft samples
+option.LVS_SUN_SHAFT_DECAY=Shaft decay
+option.LVS_SUN_SHAFT_GOLD=Warm sunlight
+
+screen.LVS_ATMOSPHERE=Biome Atmosphere
+option.LVS_BIOME_ATMOSPHERE=Biome atmosphere
+option.LVS_BIOME_FOG_STRENGTH=Biome fog strength
+option.LVS_BIOME_FOG_SATURATION=Biome tint
