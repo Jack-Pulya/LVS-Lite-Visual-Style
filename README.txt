@@ -25,3 +25,5 @@ Main features:
 - stronger wind for grass, tall plants and leaves
 - dedicated gentle movement for vines and hanging roots
 - synchronized plant movement in shadow rendering
+
+Distribution without the author's consent is prohibited!
