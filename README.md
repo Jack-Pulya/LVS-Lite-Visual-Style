@@ -2,6 +2,9 @@ LVS - Lite Visual Style
 
 Version: 1.0.0
 
+# Modrinth # 
+https://modrinth.com/shader/lvs-lite-visual-style
+
 # THE ORIGINAL PROJECT IS AVAILABLE ONLY ON MODRINTH AND GITHUB #
 
 Minecraft shaderpack for Iris + Sodium.
