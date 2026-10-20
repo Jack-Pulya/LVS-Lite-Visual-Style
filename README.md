@@ -1,11 +1,28 @@
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/WklzMcfM) ![Modrinth Version](https://img.shields.io/modrinth/v/WklzMcfM) ![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/WklzMcfM) ![Modrinth Followers](https://img.shields.io/modrinth/followers/WklzMcfM)
+
+
+
 LVS - Lite Visual Style
 
 Version: 1.0.0
 
-THE ORIGINAL PROJECT IS AVAILABLE ONLY ON MODRINTH AND GITHUB
+# Modrinth  
+https://modrinth.com/shader/lvs-lite-visual-style
+
+# THE ORIGINAL PROJECT IS AVAILABLE ONLY ON MODRINTH AND GITHUB 
+
+# Photos :
+<img width="1920" height="1080" alt="fox_in_forest" src="https://github.com/user-attachments/assets/12b168b0-90da-42e7-9e85-73a970e6e5af" />
+
+<img width="1920" height="1080" alt="night_moon" src="https://github.com/user-attachments/assets/6dd2da43-1e58-4151-9c46-8e8d2cdbd2d8" />
+
+<img width="1920" height="1080" alt="cherry_orchard" src="https://github.com/user-attachments/assets/5238f93b-696c-470f-98ac-8398f4966f1e" />
+
+
+
 
 Minecraft shaderpack for Iris + Sodium.
-Target: Minecraft 1.21.8.
+Target: Minecraft 1.21.8. - 1.20.1
 
 LVS is a Chocapic13 V9 shader edit with original lighting, atmosphere, sun shafts, color grading, water animation and plant wind work layered on top.
 
@@ -27,5 +44,27 @@ Main features:
 - stronger wind for grass, tall plants and leaves
 - dedicated gentle movement for vines and hanging roots
 - synchronized plant movement in shadow rendering
+
+  <img width="1920" height="1080" alt="mountain_noon" src="https://github.com/user-attachments/assets/bd4f49a8-f49d-4436-be2d-f0bab8894651" />
+
+  <img width="1920" height="1080" alt="rain" src="https://github.com/user-attachments/assets/88de8aa1-423d-4cee-ae02-d8bb82a412ef" />
+
+
+
+# Supported Minecraft Versions #
+
+LVS - Lite Visual Style is compatible with Minecraft Java Edition:
+
+1.21.8
+1.21.7
+1.21.6
+1.21.5
+1.21.4
+1.21.3
+1.21.2
+1.21.1
+1.21
+1.20.1
+Other Minecraft versions have not been additionally tested. Use them at your own risk.
 
 Distribution without the author's consent is prohibited!
