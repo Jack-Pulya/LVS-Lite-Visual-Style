@@ -1,6 +1,6 @@
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/WklzMcfM) ![Modrinth Version](https://img.shields.io/modrinth/v/WklzMcfM) ![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/WklzMcfM) ![Modrinth Followers](https://img.shields.io/modrinth/followers/WklzMcfM)
 
-#Distribution without the author's consent is prohibited!#
+# Distribution without the author's consent is prohibited! 
 
 
 LVS - Lite Visual Style
