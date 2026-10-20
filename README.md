@@ -1,5 +1,6 @@
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/WklzMcfM) ![Modrinth Version](https://img.shields.io/modrinth/v/WklzMcfM) ![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/WklzMcfM) ![Modrinth Followers](https://img.shields.io/modrinth/followers/WklzMcfM)
 
+#Distribution without the author's consent is prohibited!#
 
 
 LVS - Lite Visual Style
@@ -66,5 +67,3 @@ LVS - Lite Visual Style is compatible with Minecraft Java Edition:
 1.21
 1.20.1
 Other Minecraft versions have not been additionally tested. Use them at your own risk.
-
-Distribution without the author's consent is prohibited!
