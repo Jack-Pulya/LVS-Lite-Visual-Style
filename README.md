@@ -1,3 +1,5 @@
+[![Modrinth Version](https://shields.io)](https://modrinth.com/shader/lvs-lite-visual-style)
+
 LVS - Lite Visual Style
 
 Version: 1.0.0
