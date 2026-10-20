@@ -1,6 +1,8 @@
 LVS - Lite Visual Style
 Version 1.0.0
 
+# Distribution without the author's consent is prohibited!
+
 Author / project maintainer:
 Jack_Pulya (Modrinth)
 
@@ -11,5 +13,3 @@ Required distribution attribution:
 LVS - Lite Visual Style (Chocapic13' Shaders edit)
 
 LVS additions are original modifications made for this project.
-
-Distribution without the author's consent is prohibited!
