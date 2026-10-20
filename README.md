@@ -5,7 +5,7 @@ Version: 1.0.0
 # THE ORIGINAL PROJECT IS AVAILABLE ONLY ON MODRINTH AND GITHUB #
 
 Minecraft shaderpack for Iris + Sodium.
-Target: Minecraft 1.21.8.
+Target: Minecraft 1.21.8. - 1.20.1
 
 LVS is a Chocapic13 V9 shader edit with original lighting, atmosphere, sun shafts, color grading, water animation and plant wind work layered on top.
 
