@@ -1,4 +1,4 @@
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/WklzMcfM) ![Modrinth Version](https://img.shields.io/modrinth/v/WklzMcfM) ![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/WklzMcfM) ![Modrinth Followers](https://img.shields.io/modrinth/followers/WklzMcfM) ![Modrinth](https://shields.io)
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/WklzMcfM) ![Modrinth Version](https://img.shields.io/modrinth/v/WklzMcfM) ![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/WklzMcfM) ![Modrinth Followers](https://img.shields.io/modrinth/followers/WklzMcfM)
 
 
 
