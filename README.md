@@ -2,6 +2,8 @@ LVS - Lite Visual Style
 
 Version: 1.0.0
 
+THE ORIGINAL PROJECT IS AVAILABLE ONLY ON MODRINTH AND GITHUB
+
 Minecraft shaderpack for Iris + Sodium.
 Target: Minecraft 1.21.8.
 
