@@ -28,4 +28,20 @@ Main features:
 - dedicated gentle movement for vines and hanging roots
 - synchronized plant movement in shadow rendering
 
+# Supported Minecraft Versions #
+
+LVS - Lite Visual Style is compatible with Minecraft Java Edition:
+
+1.21.8
+1.21.7
+1.21.6
+1.21.5
+1.21.4
+1.21.3
+1.21.2
+1.21.1
+1.21
+1.20.1
+Other Minecraft versions have not been additionally tested. Use them at your own risk.
+
 Distribution without the author's consent is prohibited!
