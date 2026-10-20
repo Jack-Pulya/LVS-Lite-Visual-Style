@@ -1,4 +1,4 @@
-[![Modrinth Version](https://shields.io)](https://modrinth.com/shader/lvs-lite-visual-style)
+[![Modrinth Version](https://shields.io)](https://modrinth.com)
 
 
 LVS - Lite Visual Style
