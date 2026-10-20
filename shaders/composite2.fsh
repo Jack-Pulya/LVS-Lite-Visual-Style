@@ -684,17 +684,36 @@ void main() {
 		//	gl_FragData[0].rgb = vec3(caustics);
 		}
 		else {
+			// LVS v04 experiment: suppress low-level sky-light spill more strongly near cave entrances.
+            // This is a lighting-only test; no cave fog is added.
+            // LVS v05 experiment: move the cave-light transition toward the entrance
+            // and narrow its blend range so the change happens faster.
+            // v06 experiment: shift cave-light response toward the entrance; blend width preserved.
+            // LVS v07 experiment: estimate geometric sky visibility from depth,
+            // so the cave-light transition is less dependent on the moving sun.
+            // Screen-space heuristic only; it is not a world-space cave detector.
+            float lvsSkyProbe = 0.0;
+            lvsSkyProbe += step(0.99999, texture2D(depthtex0, vec2(0.20, 0.88)).x);
+            lvsSkyProbe += step(0.99999, texture2D(depthtex0, vec2(0.40, 0.88)).x);
+            lvsSkyProbe += step(0.99999, texture2D(depthtex0, vec2(0.60, 0.88)).x);
+            lvsSkyProbe += step(0.99999, texture2D(depthtex0, vec2(0.80, 0.88)).x);
+            lvsSkyProbe *= 0.25;
+            float lvsSkyGeometry = smoothstep(0.0, 0.75, lvsSkyProbe);
+            float lvsSkyLightLevel = smoothstep(0.32, 0.46, eyeBrightnessSmooth.y / 255.0);
+            float lvsCaveSkyVisibility = max(lvsSkyLightLevel, lvsSkyGeometry);
 			#ifdef SSGI
 				if (!hand)
 					ambientLight = rtGI(normal, blueNoise(gl_FragCoord.xy), fragpos, ambientLight* custom_lightmap.x, sssAmount, custom_lightmap.z*vec3(0.9,1.0,1.5) + custom_lightmap.y*vec3(TORCH_R,TORCH_G,TORCH_B), normalize(albedo+1e-5)*0.7);
 				else
-					ambientLight = ambientLight* custom_lightmap.x + custom_lightmap.z*vec3(0.9,1.0,1.5) + custom_lightmap.y*vec3(TORCH_R,TORCH_G,TORCH_B);
+					ambientLight = ambientLight* custom_lightmap.x * lvsCaveSkyVisibility + custom_lightmap.z*vec3(0.9,1.0,1.5) + custom_lightmap.y*vec3(TORCH_R,TORCH_G,TORCH_B);
 			#else
-					ambientLight = ambientLight* custom_lightmap.x + custom_lightmap.z*vec3(0.9,1.0,1.5) + custom_lightmap.y*vec3(TORCH_R,TORCH_G,TORCH_B);
+					ambientLight = ambientLight* custom_lightmap.x * lvsCaveSkyVisibility + custom_lightmap.z*vec3(0.9,1.0,1.5) + custom_lightmap.y*vec3(TORCH_R,TORCH_G,TORCH_B);
 			#endif
 			// LVS lighting model for terrain and solid blocks.
+			// Suppress direct sunlight and sky bounce where the sky-light level is low.
+			directLightCol.rgb *= lvsCaveSkyVisibility;
 			vec3 lvsViewDir = lvsSafeNormalize(-np3);
-			float lvsSkyLight = clamp(custom_lightmap.x, 0.0, 1.0);
+			float lvsSkyLight = clamp(custom_lightmap.x, 0.0, 1.0) * lvsCaveSkyVisibility;
 			float lvsTorch = max(custom_lightmap.y, 0.0);
 			vec3 lvsLit = lvsLighting(
 				albedo,
@@ -703,8 +722,8 @@ void main() {
 				WsunVec,
 				directLightCol.rgb * (8.0/150.0/3.0),
 				ambientLight,
-				ambientUp * (8.0/150.0/3.0),
-				ambientDown * (8.0/150.0/3.0),
+				ambientUp * (8.0/150.0/3.0) * lvsCaveSkyVisibility,
+				ambientDown * (8.0/150.0/3.0) * lvsCaveSkyVisibility,
 				max(shading, 0.0),
 				lvsSkyLight,
 				lvsTorch,
