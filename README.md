@@ -1,3 +1,5 @@
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/WklzMcfM)
+
 LVS - Lite Visual Style
 
 Version: 1.0.0
