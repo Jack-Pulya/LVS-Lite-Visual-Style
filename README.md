@@ -41,6 +41,12 @@ Main features:
 - dedicated gentle movement for vines and hanging roots
 - synchronized plant movement in shadow rendering
 
+  <img width="1920" height="1080" alt="mountain_noon" src="https://github.com/user-attachments/assets/bd4f49a8-f49d-4436-be2d-f0bab8894651" />
+
+  <img width="1920" height="1080" alt="rain" src="https://github.com/user-attachments/assets/88de8aa1-423d-4cee-ae02-d8bb82a412ef" />
+
+
+
 # Supported Minecraft Versions #
 
 LVS - Lite Visual Style is compatible with Minecraft Java Edition:
