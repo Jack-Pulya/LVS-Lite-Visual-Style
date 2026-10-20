@@ -1,0 +1,15 @@
+LVS - Lite Visual Style
+Version 1.0.0
+
+Author / project maintainer:
+Jack_Pulya (Modrinth)
+
+Base shader: Chocapic13' Shaders V9 by Choca_13.
+LVS is a modified/edited version of Chocapic13' Shaders.
+
+Required distribution attribution:
+LVS - Lite Visual Style (Chocapic13' Shaders edit)
+
+LVS additions are original modifications made for this project.
+
+Distribution without the author's consent is prohibited!
