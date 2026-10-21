@@ -11,7 +11,7 @@ Version: 1.0.0
 https://modrinth.com/shader/lvs-lite-visual-style
 
 # CurseForge
-coming soon
+https://www.curseforge.com/minecraft/shaders/lvs-lite-visual-style
 
 # THE ORIGINAL PROJECT IS AVAILABLE ONLY ON MODRINTH ,CURSEFORGE and GITHUB 
 
