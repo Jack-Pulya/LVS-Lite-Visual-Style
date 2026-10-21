@@ -10,7 +10,10 @@ Version: 1.0.0
 # Modrinth  
 https://modrinth.com/shader/lvs-lite-visual-style
 
-# THE ORIGINAL PROJECT IS AVAILABLE ONLY ON MODRINTH AND GITHUB 
+# CurseForge
+coming soon
+
+# THE ORIGINAL PROJECT IS AVAILABLE ONLY ON MODRINTH ,CURSEFORGE and GITHUB 
 
 # Photos :
 <img width="1920" height="1080" alt="fox_in_forest" src="https://github.com/user-attachments/assets/12b168b0-90da-42e7-9e85-73a970e6e5af" />
