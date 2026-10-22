@@ -14,6 +14,7 @@ https://modrinth.com/shader/lvs-lite-visual-style
 https://www.curseforge.com/minecraft/shaders/lvs-lite-visual-style
 
 # THE ORIGINAL PROJECT IS AVAILABLE ONLY ON MODRINTH ,CURSEFORGE and GITHUB 
+## If you download my shader from sources other than CurseForge, GitHub, or Modrinth, you may encounter issues such as problematic lighting in mines, light-related glitches, and over 10 other lighting bugs. This is because these sites steal older versions of the shader that contain these flaws.
 
 # Photos :
 <img width="1920" height="1080" alt="fox_in_forest" src="https://github.com/user-attachments/assets/12b168b0-90da-42e7-9e85-73a970e6e5af" />
